@@ -1,0 +1,7 @@
+[project]
+name = "clarity-prepaid-stx"
+requirements = []
+costs_version = 1
+[contracts.prepaid-stx]
+path = "contracts/prepaid-stx.clar"
+depends_on = []
